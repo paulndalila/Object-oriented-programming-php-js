@@ -30,3 +30,10 @@ form input[type='submit']{
     padding: 5px;
     background-color: rgb(18, 118, 218);
 }
+
+#error-bar{
+    /* display: none; */
+    color: red;
+    font-style: italic;
+    font-weight: bolder;
+}
